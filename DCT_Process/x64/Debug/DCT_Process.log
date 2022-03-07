@@ -1,0 +1,8 @@
+﻿  DCT.c
+C:\Users\j\Desktop\Image4_2019\DCT_Process\DCT.c(81,59): warning C4244: '=': 'Double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\j\Desktop\Image4_2019\DCT_Process\DCT.c(15,14): warning C4101: 'op' :참조되지 않은 지역 변수입니다.
+  IDCT.c
+C:\Users\j\Desktop\Image4_2019\DCT_Process\IDCT.c(60,86): warning C4244: '=': 'Double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\j\Desktop\Image4_2019\DCT_Process\IDCT.c(15,14): warning C4101: 'op' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  DCT_Process.vcxproj -> C:\Users\j\Desktop\Image4_2019\x64\Debug\DCT_Process.exe

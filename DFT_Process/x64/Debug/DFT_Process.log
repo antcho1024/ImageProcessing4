@@ -1,0 +1,7 @@
+﻿  DFT.c
+  IDFT.c
+C:\Users\j\Desktop\Image4_2019\DFT_Process\IDFT.c(71,86): warning C4244: '=': 'Double'에서 'UChar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.c
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\j\Desktop\Image4_2019\x64\Debug\DFT_Process.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  DFT_Process.vcxproj -> C:\Users\j\Desktop\Image4_2019\x64\Debug\DFT_Process.exe
